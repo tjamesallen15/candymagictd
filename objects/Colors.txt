@@ -1,0 +1,11 @@
+12ff00 - GREEN
+000cff - BLUE
+
+00fcff - CHILL
+1eff00 - POISON
+OPACITY 50
+
+
+Cherrybolt
+HUE +30 L1
+HUE -50 L3

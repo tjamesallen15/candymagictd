@@ -1,0 +1,6 @@
+1 400ms 35 60
+2 300ms 40 40
+3 200ms 45 70
+return new Rectangle(getX() - 75, getY() - 75, 200, 200);
+
+//drawOffScreen.drawRect(tcm.getX() - 175, tcm.getY() - 175, 400, 400);

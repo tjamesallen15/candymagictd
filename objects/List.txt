@@ -1,0 +1,65 @@
+			//Left Upper
+                        getCreepEggList().add(new CreepEgg(this, spawnXL1, spawnYL1, F1, F2, false, true, F3, 1, (BufferedImage) getCreepImageList().get(F4)));
+                        spawnXL1 -= 50;
+                        getCreepEggList().add(new CreepEgg(this, spawnXL2, spawnYL2, F1, F2, false, true, F3, 2, (BufferedImage) getCreepImageList().get(F4)));
+                        spawnXL2 -= 125;
+                        getCreepEggList().add(new CreepEgg(this, spawnXL3, spawnYL3, F1, F2, false, true, F3, 3, (BufferedImage) getCreepImageList().get(F4)));
+                        spawnXL3 -= 250;
+                        //Left Middle
+                        getCreepEggList().add(new CreepEgg(this, spawnXL24, spawnYL24, F1, F2, false, true, F3, 24, (BufferedImage) getCreepImageList().get(F4)));
+                        spawnXL24 -= 50;
+                        getCreepEggList().add(new CreepEgg(this, spawnXL25, spawnYL25, F1, F2, false, true, F3, 25, (BufferedImage) getCreepImageList().get(F4)));
+                        spawnXL25 -= 125;
+                        getCreepEggList().add(new CreepEgg(this, spawnXL26, spawnYL26, F1, F2, false, true, F3, 26, (BufferedImage) getCreepImageList().get(F4)));
+                        spawnXL26 -= 250;
+                        //Left Lower
+                        getCreepEggList().add(new CreepEgg(this, spawnXL22, spawnYL22, F1, F2, false, true, F3, 22, (BufferedImage) getCreepImageList().get(F4)));
+                        spawnXL22 -= 50;
+                        getCreepEggList().add(new CreepEgg(this, spawnXL23, spawnYL23, F1, F2, false, true, F3, 23, (BufferedImage) getCreepImageList().get(F4)));
+                        spawnXL23 -= 125;
+                        
+                        //Right Upper
+                        getCreepEggList().add(new CreepEgg(this, spawnXL9, spawnYL9, F1, F2, false, true, F3, 9, (BufferedImage) getCreepImageList().get(F4)));
+                        spawnXL9 += 50;
+                        getCreepEggList().add(new CreepEgg(this, spawnXL10, spawnYL10, F1, F2, false, true, F3, 10, (BufferedImage) getCreepImageList().get(F4)));
+                        spawnXL10 += 125;
+                        //Right Middle
+                        getCreepEggList().add(new CreepEgg(this, spawnXL11, spawnYL11, F1, F2, false, true, F3, 11, (BufferedImage) getCreepImageList().get(F4)));
+                        spawnXL11 += 50;
+                        getCreepEggList().add(new CreepEgg(this, spawnXL12, spawnYL12, F1, F2, false, true, F3, 12, (BufferedImage) getCreepImageList().get(F4)));
+                        spawnXL12 += 125;
+                        getCreepEggList().add(new CreepEgg(this, spawnXL13, spawnYL13, F1, F2, false, true, F3, 13, (BufferedImage) getCreepImageList().get(F4)));
+                        spawnXL13 += 250;
+                        //Right Lower
+                        getCreepEggList().add(new CreepEgg(this, spawnXL14, spawnYL14, F1, F2, false, true, F3, 14, (BufferedImage) getCreepImageList().get(F4)));
+                        spawnXL14 += 50;
+                        getCreepEggList().add(new CreepEgg(this, spawnXL15, spawnYL15, F1, F2, false, true, F3, 15, (BufferedImage) getCreepImageList().get(F4)));
+                        spawnXL15 += 125;
+                        getCreepEggList().add(new CreepEgg(this, spawnXL16, spawnYL16, F1, F2, false, true, F3, 16, (BufferedImage) getCreepImageList().get(F4)));
+                        spawnXL16 += 250;
+                        
+                        //Upper Left
+                        getCreepEggList().add(new CreepEgg(this, spawnXL4, spawnYL4, F1, F2, false, true, F3, 4, (BufferedImage) getCreepImageList().get(F4)));
+                        spawnYL4 -= 50;
+                        getCreepEggList().add(new CreepEgg(this, spawnXL5, spawnYL5, F1, F2, false, true, F3, 5, (BufferedImage) getCreepImageList().get(F4)));
+                        spawnYL5 -= 125;
+                        getCreepEggList().add(new CreepEgg(this, spawnXL6, spawnYL6, F1, F2, false, true, F3, 6, (BufferedImage) getCreepImageList().get(F4)));
+                        spawnYL6 -= 250;
+                        //Upper Right
+                        getCreepEggList().add(new CreepEgg(this, spawnXL7, spawnYL7, F1, F2, false, true, F3, 7, (BufferedImage) getCreepImageList().get(F4)));
+                        spawnYL7 -= 50;
+                        getCreepEggList().add(new CreepEgg(this, spawnXL8, spawnYL8, F1, F2, false, true, F3, 8, (BufferedImage) getCreepImageList().get(F4)));
+                        spawnYL8 -= 125;
+                        
+                        //Lower Right
+                        getCreepEggList().add(new CreepEgg(this, spawnXL17, spawnYL17, F1, F2, false, true, F3, 17, (BufferedImage) getCreepImageList().get(F4)));
+                        spawnYL17 += 50;
+                        getCreepEggList().add(new CreepEgg(this, spawnXL18, spawnYL18, F1, F2, false, true, F3, 18, (BufferedImage) getCreepImageList().get(F4)));
+                        spawnYL18 += 125;
+                        getCreepEggList().add(new CreepEgg(this, spawnXL19, spawnYL19, F1, F2, false, true, F3, 19, (BufferedImage) getCreepImageList().get(F4)));
+                        spawnYL19 += 250;
+                        //Lower Left
+                        getCreepEggList().add(new CreepEgg(this, spawnXL20, spawnYL20, F1, F2, false, true, F3, 20, (BufferedImage) getCreepImageList().get(F4)));
+                        spawnYL20 += 50;
+                        getCreepEggList().add(new CreepEgg(this, spawnXL21, spawnYL21, F1, F2, false, true, F3, 21, (BufferedImage) getCreepImageList().get(F4)));
+                        spawnYL21 += 125;
